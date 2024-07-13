@@ -12,5 +12,4 @@ int main() {
     scanf("%f", &peso);
 
     printf("sua idade e seu peso é: %d e %f \n", idade, peso);
-
 }
